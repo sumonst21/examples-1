@@ -6,6 +6,6 @@
   },
   "dependencies": {
     "total.js": "latest",
-    "next": "^2.0.0-beta"
+    "next": "^16.2.5"
   }
 }
