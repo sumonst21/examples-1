@@ -14,8 +14,8 @@
   "author": "ckpiggy",
   "license": "MIT",
   "dependencies": {
-    "axios": "0.16.2",
+    "axios": "0.31.1",
     "nuxt": "next",
-    "total.js": "^2.6.3-3"
+    "total.js": "^3.4.13"
   }
 }
